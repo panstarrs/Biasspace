@@ -1,0 +1,8 @@
+          physicals       labels                      xlabel            latexs    mins    maxs  
+         mstars_tot           ms         LogM$[M_{\odot}/h]$       $M_{\star}$       9    12  
+              mcold        mcold         LogM$[M_{\star}/h]$             $SFR$       9    11  
+           mstardot          sfr   LogSFR$[M_{\star}/h/Gyr]$         $M_{gas}$       9    11  
+   L_tot_Halpha_ext  H$_{\alpha}$      Log$H_{\alpha}[erg/s]$      $H_{\alpha}$      41     43  
+  L_tot_Lyalpha_ext Ly$_{\alpha}$     Log$Ly_{\alpha}[erg/s]$     $Ly_{\alpha}$      41     44  
+    L_tot_Hbeta_ext   H$_{\beta}$       Log$H_{\beta}[erg/s]$       $H_{\beta}$      41     43  
+  L_tot_OII3727_ext          OII             Log$OII[erg/s]$   $O_{\Rmnum{2}}$       41     43  

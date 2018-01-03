@@ -1,0 +1,20 @@
+                    bands_r                  bands_o     z0       z1       z2       z3
+                 mstars_tot               mstars_tot   8.25     8.25     8.25     8.25
+                      mcold                    mcold   8.75     8.75     9.25     9.25
+                   mstardot                 mstardot   7.75     8.25     8.25     8.75
+           L_tot_Halpha_ext         L_tot_Halpha_ext  -0.25     0.25     0.75     0.75
+          L_tot_Lyalpha_ext        L_tot_Lyalpha_ext   0.75     1.25     1.75     1.75
+            L_tot_Hbeta_ext          L_tot_Hbeta_ext  -0.75    -0.25     0.25     0.25
+          L_tot_OII3727_ext        L_tot_OII3727_ext  -0.75     0.25     0.25     0.75
+    mag_GALEX-FUV_r_tot_ext  mag_GALEX-FUV_o_tot_ext -14.75   -15.75   -16.75   -17.25
+    mag_GALEX-NUV_r_tot_ext  mag_GALEX-NUV_o_tot_ext -14.25   -15.75   -16.75   -17.25
+       mag_SDSS-u_r_tot_ext     mag_SDSS-u_o_tot_ext -14.75   -15.75   -16.75   -17.25
+       mag_SDSS-g_r_tot_ext     mag_SDSS-g_o_tot_ext -15.75   -16.75   -17.25   -17.75
+       mag_SDSS-r_r_tot_ext     mag_SDSS-r_o_tot_ext -15.75   -16.75   -17.25   -17.75
+       mag_SDSS-i_r_tot_ext     mag_SDSS-i_o_tot_ext -16.25   -16.75   -17.25   -17.75
+       mag_SDSS-z_r_tot_ext     mag_SDSS-z_o_tot_ext -16.25   -16.75   -17.25   -17.75
+     mag_UKIDSS-Y_r_tot_ext   mag_UKIDSS-Y_o_tot_ext -16.25   -16.75   -17.25   -17.75
+      mag_UKIRT-H_r_tot_ext    mag_UKIRT-H_o_tot_ext -16.25   -16.75   -17.25   -17.25
+      mag_UKIRT-J_r_tot_ext    mag_UKIRT-J_o_tot_ext -16.25   -16.75   -17.25   -17.25
+      mag_UKIRT-K_r_tot_ext    mag_UKIRT-K_o_tot_ext -15.75   -16.25   -16.75   -16.75
+

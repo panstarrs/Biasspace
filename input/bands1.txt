@@ -1,0 +1,4 @@
+                  bands_r                   bands_o       labels                        xlabel            latexs    mins    maxs  
+  mag_GALEX-FUV_r_tot_ext   mag_GALEX-FUV_o_tot_ext          FUV                           FUV               FUV     -22     -17  
+  mag_GALEX-NUV_r_tot_ext   mag_GALEX-NUV_o_tot_ext          NUV                           NUV               NUV     -22     -17  
+     mag_SDSS-u_r_tot_ext      mag_SDSS-u_o_tot_ext            u                             u                 u     -22     -17  

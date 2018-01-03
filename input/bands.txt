@@ -1,0 +1,12 @@
+                  bands_r                   bands_o       labels                        xlabel            latexs    mins    maxs  
+  mag_GALEX-FUV_r_tot_ext   mag_GALEX-FUV_o_tot_ext          FUV                           FUV               FUV     -22     -14  
+  mag_GALEX-NUV_r_tot_ext   mag_GALEX-NUV_o_tot_ext          NUV                           NUV               NUV     -22     -14  
+     mag_SDSS-u_r_tot_ext      mag_SDSS-u_o_tot_ext            u                             u                 u     -22     -14  
+     mag_SDSS-g_r_tot_ext      mag_SDSS-g_o_tot_ext            g                             g                 g     -24     -14  
+     mag_SDSS-r_r_tot_ext      mag_SDSS-r_o_tot_ext            r                             r                 r     -24     -14  
+     mag_SDSS-i_r_tot_ext      mag_SDSS-i_o_tot_ext            i                             i                 i     -24     -14  
+     mag_SDSS-z_r_tot_ext      mag_SDSS-z_o_tot_ext            z                             z                 z     -24     -14  
+   mag_UKIDSS-Y_r_tot_ext    mag_UKIDSS-Y_o_tot_ext            Y                             Y                 Y     -24     -14  
+    mag_UKIRT-H_r_tot_ext     mag_UKIRT-H_o_tot_ext            H                             H                 H     -24     -14  
+    mag_UKIRT-J_r_tot_ext     mag_UKIRT-J_o_tot_ext            J                             J                 J     -24     -14  
+    mag_UKIRT-K_r_tot_ext     mag_UKIRT-K_o_tot_ext            K                             K                 K     -24     -14  

@@ -1,0 +1,9 @@
+           physicals   z0   z1   z2   z3
+          mstars_tot   9    9    9    9
+               mcold   9    9    9    9
+            mstardot   9    9    9    9
+    L_tot_Halpha_ext   41   41   41   41
+   L_tot_Lyalpha_ext   41.5   41.5   41.5   41.5
+     L_tot_Hbeta_ext   41   41   41   41
+   L_tot_OII3727_ext   41   41   41   41
+
